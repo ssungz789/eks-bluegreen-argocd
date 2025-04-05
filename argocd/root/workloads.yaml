@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/seb-demo/eks-blueprints-workloads
-    path: apps
+    path: multi-repo/argo-app-of-apps/dev
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
