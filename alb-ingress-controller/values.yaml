@@ -1,0 +1,7 @@
+
+clusterName: eks-blue
+region: ap-northeast-2
+vpcId: vpc-xxxxxxxx
+serviceAccount:
+  create: true
+  name: aws-load-balancer-controller

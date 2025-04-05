@@ -1,0 +1,4 @@
+resources:
+  - addons.yaml
+  - workloads.yaml
+  - burnham.yaml

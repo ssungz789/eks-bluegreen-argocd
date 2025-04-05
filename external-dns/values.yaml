@@ -1,0 +1,11 @@
+
+domainFilters:
+  - ssungz.net
+provider: aws
+aws:
+  region: ap-northeast-2
+  zoneType: public
+policy: sync
+serviceAccount:
+  create: true
+  name: external-dns

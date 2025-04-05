@@ -1,0 +1,8 @@
+# 모든 하위 폴더의 .terraform/ 무시
+**/.terraform/
+infrastructure/.terraform/
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/terraform.tfvars
+
